@@ -1,0 +1,9 @@
+name: spawn
+version: '${project.version}'
+main: fr.jehende.spawn.Spawn
+api-version: '1.20'
+commands:
+    spawn:
+        usage: /<command>
+        aliases:
+            - hub
